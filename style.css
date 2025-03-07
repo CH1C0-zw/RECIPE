@@ -1,0 +1,108 @@
+body{
+    background-color: peachpuff;
+}
+.Container{
+    position: relative;
+    margin: 50px auto;
+    width: 700px;
+    height: 1600px;
+    background-color: white;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    border-radius: 10px;
+
+}
+img{
+    position: absolute;
+    max-width: 600px; 
+    border-radius: 10px;
+    display: flex;
+    margin-top: -1230px; 
+}
+h1{
+    position: absolute;
+    bottom: 1190px;
+    left: 50px;
+    font-family: "Young Serif" ;
+    font-weight: 400;
+   
+}
+.pos{
+    position: absolute;
+    left: 50px;
+    right: 50px;
+    font-size: 16px;
+}
+#p1{
+    font-family: "Outfit";
+    position: absolute;
+    top: 390px;
+    font-weight: 200; 
+}
+#prep{
+    position: relative;
+    bottom: 210px;
+    width: 600px;
+    height: 200px;
+    background-color: hsl(360, 100%, 95%);
+    border-radius: 10px;
+}
+#p2{
+    position: absolute;
+    font-family: "Outfit";
+    font-size: 22px;
+    font-weight: 600;
+    color: hsl(332, 51%, 32%);
+    top: 5px;
+    left: 25px;
+}
+#p3{
+    font-family: "Outfit"; 
+    position: absolute;
+    top: 60px;
+}
+.list-text {
+    margin-left: 30px; /* Creates extra space between bullet and text */
+  }
+  #p4{
+    position: absolute;
+    top: 700px;
+    font-family: "Young Serif" ;
+    font-size: 25px;
+    color: hsl(14, 45%, 36%)
+  }
+  #p5{
+    position: absolute;
+    left: 25px;
+    top: 770px;
+    font-family: "Outfit"; 
+  }
+#rule{
+    position: absolute;
+    bottom: 590px;
+}
+#p6{
+    position: absolute;
+    bottom: 515px;
+    font-family: "Young Serif" ;
+    font-size: 25px;
+    color: hsl(14, 45%, 36%)
+}
+#p7{
+    position: absolute;
+    left: 25px;
+    bottom: 185px;
+    font-family: "Outfit"; 
+}
+#rule2{
+    position: absolute;
+    bottom: 175px;
+}
+#p8{
+    position: absolute;
+    bottom: 100px;
+    font-family: "Young Serif" ;
+    font-size: 25px;
+    color: hsl(14, 45%, 36%)
+}
